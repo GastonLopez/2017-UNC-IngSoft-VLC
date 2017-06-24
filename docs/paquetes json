@@ -1,0 +1,26 @@
+JSON LISTA DE PUBLICACIONES:
+
+{
+  "publicaciones": {
+    "publicacion": [
+      {
+        "id": 3, 
+        "title": "iosndkfnl"
+      }, 
+      {
+        "id": 1, 
+        "title": "La ruta del dinero G"
+      }
+    ]
+  }
+}
+
+PUBLICACION ESPECIFICA
+
+{
+  "publicacion": {
+    "content": "jeejejejejejejeje", 
+    "fecha": "2017-06-24 11:28:03", 
+    "title": "iosndkfnl"
+  }
+}
