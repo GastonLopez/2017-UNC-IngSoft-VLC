@@ -32,7 +32,7 @@ LOGIN DE USUARIO:
 {
   "usuario" : {
     "acc" : "admin",
-    "pass" : "test"
+    "pwd" : "test"
   }
 }
 
@@ -42,7 +42,7 @@ REGISTRO DE USUARIO:
 {
   "registro" : {
     "acc" : "nueva_acc"
-    "pass" : "contraseña"
+    "pwd" : "contraseña"
     "nombre" : "gopez"
     "email" : "gopez_lo+@yahoo.com"
   }
