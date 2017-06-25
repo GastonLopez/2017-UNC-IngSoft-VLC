@@ -15,6 +15,7 @@ JSON LISTA DE PUBLICACIONES:
   }
 }
 
+
 PUBLICACION ESPECIFICA
 
 {
@@ -24,3 +25,25 @@ PUBLICACION ESPECIFICA
     "title": "iosndkfnl"
   }
 }
+
+
+LOGIN DE USUARIO:
+
+{
+  "usuario" : {
+    "acc" : "admin",
+    "pass" : "test"
+  }
+}
+
+
+REGISTRO DE USUARIO:
+
+{
+  "registro" : {
+    "acc" : "nueva_acc"
+    "pass" : "contraseña"
+    "nombre" : "gopez"
+    "email" : "gopez_lo+@yahoo.com"
+  }
+}  
