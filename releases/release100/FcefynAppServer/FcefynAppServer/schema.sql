@@ -1,0 +1,18 @@
+drop table if exists PUBLICACIONES;
+CREATE TABLE PUBLICACIONES
+(
+  id integer PRIMARY KEY AUTOINCREMENT,
+  title text NOT NULL,
+  content text NOT NULL,
+  fecha NUMERIC
+);
+drop table if exists USUARIOS;
+CREATE TABLE USUARIOS
+(
+  userid INTEGER PRIMARY KEY AUTOINCREMENT,
+  user TEXT NOT NULL,
+  nombre TEXT NOT NULL,
+  email TEXT NOT NULL,
+  pass TEXT NOT NULL,
+  admin BOOLEAN NOT NULL DEFAULT FALSE
+);
