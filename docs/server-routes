@@ -1,0 +1,23 @@
+JSON con lista de titulos e id de publicaciones:
+
+GET a /publicaciones/
+
+
+JSON de publicacion especifica
+
+GET a /publicaciones/id
+
+
+CREAR UNA NUEVA PUBLICACION
+
+POST a /publicaciones/     enviando JSON
+
+
+EDITAR UNA PUBLICACION
+
+PUT a /publicaciones/id   enviando JSON
+
+
+ELIMINAR UNA PUBLICACION
+
+DELETE a /publiciaciones/id
